@@ -7,7 +7,7 @@ excerpt: 'The study highlights that transcranial direct current stimulation (tDC
 date: 2023-07-01
 venue: 'Brain Stimulation'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/paper_bs_2023.pdf'
+paperurl: 'http://daeolian.github.io/files/paper_bs_2023.pdf'
 citation: 'Ahn, J., Ryu, J., Lee, S., Lee, C., Im, C.-H., Lee, S.-H., 2023. Transcranial direct current stimulation elevates the baseline activity while sharpening the spatial tuning of the human visual cortex. Brain Stimulation 16, 1154–1164. https://doi.org/10.1016/j.brs.2023.07.052'
 ---
 
