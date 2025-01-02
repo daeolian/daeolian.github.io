@@ -24,11 +24,21 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
-      {% if author.location %}
-        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+      {% if author.position %}
+        <li class="author__desktop"><i class="fa-solid fa-bookmark icon-pad-right" aria-hidden="true"></i>{{ author.position }}</li>
+      {% endif %}
+      {% if author.lab %}
+        {% if author.labsite %}
+          <li><a href="{{ author.labsite }}"><i class="fa-solid fa-flask icon-pad-right"></i>{{ author.lab }}</a></li>
+        {% else %}
+          <li class="author__desktop"><i class="fa-solid fa-flask icon-pad-right" aria-hidden="true"></i>{{ author.lab }}</li>
+        {% endif %}
       {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+      {% endif %}
+      {% if author.location %}
+        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
