@@ -84,6 +84,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  archive:
+    title: 'Archive Papers'
   conferences:
     title: 'Conference Papers'
 
