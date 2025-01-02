@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
+Welcome! I’m Jeongyeol Ahn, a neuroscientist dedicated to uncovering the mechanisms of human visual perception. My research focuses on exploring the neural systems of the visual cortex using techniques such as fMRI, brain stimulation, visual psychophysics, and eyetracking. Here, you’ll find an overview of my academic journey, current projects, and future endeavors. Thank you for visiting!
