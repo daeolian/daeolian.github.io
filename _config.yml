@@ -21,7 +21,7 @@ repository               : "daeolian/daeolian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic_profile_ja.jpg"
+  avatar           : "profile.png"
   name             : "Jeongyeol Ahn"
   pronouns         : # example: "she/her"  
   position         : "Postdoctoral Fellow"
