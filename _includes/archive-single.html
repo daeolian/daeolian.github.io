@@ -29,12 +29,7 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
       {% else %}
-        {% if post.url contains '://' %}
           <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
-        {% else %}
-          <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
-        {% endif %}
-      
       {% endif %}
     </h2>
     
