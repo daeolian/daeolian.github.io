@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in , Seoul National University, 2024
+  * Major: Brain and Cognitive Sciences (GPA 4.03/4.3)
+* B.S. in College of Liberal Studies, Seoul National University, 2015
+  * Major: Biological Sciences / (Student-Designed Major) Cognitive Logic (GPA 3.39/4.3)
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Best Doctoral Thesis Award, College of Natural Sciences, Seoul National University
+(2024)
+* Excellence Award in Poster Presentation at Brain Day, Department of Brain and Cognitive Sciences, Seoul National University (2021)
+* Excellence Award in Poster Presentation at Brain Day, Department of Brain and Cognitive Sciences, Seoul National University (2019)
+* Excellence Award in Poster Presentation at Brain Day, Department of Brain and Cognitive Sciences, Seoul National University (2018)
+* Outstanding Graduate Award “Person Of The Year”, College of Liberal Studies, Seoul National University (2015)
+* Excellence Award in Thesis Presentation, Department of Biological Sciences, Seoul National University (2015)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Language: Matlab, R, Python, Javascript
+* FMRI Experiment Design & Analysis
+  * Retinotopic mapping, block design, event-related design
+* Transcranial Electrical Stimulation
+  * tDCS, tACS, tRNS
+* Voxel-level modeling
+  * Hemodynamic response function, population receptive fields
+* Psychophysics
+  * Detection, Orientation discrimination, Spatial localization, Working memory task
+* Statistical analysis
+  * Power analysis, Multivariate statistics, Mixed effects model
+* Eye Tracking & Analysis
+  * Pupillometry, gaze tracking
+* Web-Based Experiment
+  * Examples: https://app.gorilla.sc/openmaterials/732727
+* LEADERSHIP
+  * President of the club: College of Liberal Studies PR Team HUB (2012-2013)
+  * President of the Association of Clubs in the College of Liberal Studies (2012)
 
 Publications
 ======
