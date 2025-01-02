@@ -32,7 +32,7 @@
         {% if post.url contains '://' %}
           <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
         {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       
       {% endif %}
