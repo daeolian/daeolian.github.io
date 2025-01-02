@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in , Seoul National University, 2024
+* Ph.D in College of Natural Sciences, Seoul National University, 2024
   * Major: Brain and Cognitive Sciences (GPA 4.03/4.3)
 * B.S. in College of Liberal Studies, Seoul National University, 2015
   * Major: Biological Sciences / (Student-Designed Major) Cognitive Logic (GPA 3.39/4.3)
@@ -68,6 +68,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+International conference presentations
 ======
-* Currently signed in to 43 different slack teams
+* Ahn, Jeongyeol, Juhyoung Ryu, Sangjun Lee, Chany Lee, Chang-Hwan Im, and Sang-Hun Lee. “Impacts of Transcranial Direct Current Stimulation on the Temporal and Spatial Profiles of fMRI Activity in the Human Visual Cortex” in 51st Annual Meeting of the Society for Neuroscience (Neuroscience 2022), 2022.
+* Ahn, Jeongyeol, Juhyoung Ryu, Sangjun Lee, Chany Lee, Chang-Hwan Im, and Sang-Hun Lee. “Quantifying the Impacts of Transcranial Electrical Stimulation on Cortical Activity in Human Visual Cortex,” in the 15th Asia-Pacific Conference on Vision (APCV), 2019.
+* Ahn, Jeongyeol, Juhyoung Ryu, Sangjun Lee, Chany Lee, Chang-Hwan Im, and Sang-Hun Lee. “Effects of Transcranial Direct Current Stimulation Polarity on Cortical Activity in Human Visual Cortex.” In the International Brain Research Organization (IBRO) ,2019.
