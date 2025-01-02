@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
+
 Education
 ======
 * Ph.D in , Seoul National University, 2024
