@@ -2,7 +2,7 @@
 title: "Determination of Optimal Injection Current Pattern for Multichannel Transcranial Electrical Stimulation without Individual MRI Using Multiple Head Models"
 collection: publications
 category: manuscripts
-permalink: https://www.sciencedirect.com/science/article/pii/S0169260723005448
+permalink: "https://www.sciencedirect.com/science/article/pii/S0169260723005448"
 excerpt: 'This study proposed a method to improve multichannel transcranial electrical stimulation (tES) focality by averaging injection current patterns optimized across multiple head models. Results showed that using a mean current pattern from at least 13 head models significantly enhanced stimulation focality compared to a single standard model. This approach offers a practical solution when individual MRIs are unavailable.'
 date: 2023-10-20
 venue: 'Computer Methods and Programs in Biomedicine'
